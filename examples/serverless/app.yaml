@@ -1,0 +1,4 @@
+pipeline:
+  template: s3://foo/mypipeline.yaml
+  parameters:
+    BuildSpec

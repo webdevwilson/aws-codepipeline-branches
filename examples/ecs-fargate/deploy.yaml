@@ -1,0 +1,2 @@
+pipeline:
+  template: s3:///pipeline-templates/ecs-farget.yaml
